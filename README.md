@@ -158,3 +158,5 @@ Refer to their official guide on creating a paper account https://www.interactiv
 - https://interactivebrokers.github.io/tws-api/
 - https://quant.itiger.com/openapi/zh/python/quickStart/prepare.html
 - https://openapi.moomoo.com/futu-api-doc/en/quick/opend-base.html
+#   a u t o - d c a  
+ 
